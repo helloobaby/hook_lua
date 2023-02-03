@@ -1,0 +1,1 @@
+qianxin_loaddll.exe -i D:\vs-code\hook_lua\Release\useless32bit.dll D:\vs-code\hook_lua\x64\Release\hook_lua.dll
